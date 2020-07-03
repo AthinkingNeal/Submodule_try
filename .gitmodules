@@ -1,0 +1,6 @@
+[submodule "reaver"]
+	path = reaver
+	url = https://github.com/inoryy/reaver
+[submodule "pysc2"]
+	path = pysc2
+	url = https://github.com/deepmind/pysc2
